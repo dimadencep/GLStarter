@@ -1,5 +1,8 @@
 {
-	"latest": "0.2",
+	"latest": "0.3",
+	"0.3": {
+		"info": "Fix texts."
+	},
 	"0.2": {
 		"info": "Added updater, config, and more..."
 	},
