@@ -1,0 +1,9 @@
+{
+	"latest": "0.2",
+	"0.2": {
+		"info": "Added updater, config, and more..."
+	},
+	"0.1": {
+		"info": "First release!"
+	}
+}
