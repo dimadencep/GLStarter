@@ -1,5 +1,8 @@
 {
 	"latest": "0.3",
+	"0.4": {
+		"info": "Checking config and debug."
+	},
 	"0.3": {
 		"info": "Fix texts."
 	},
