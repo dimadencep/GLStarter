@@ -1,1 +1,0 @@
-{"args":["nogui"],"Java":"java","wrapperclass":"pro.gravit.launcher.server.ServerWrapper","serverjar":"Ñore.jar","debug":false,"wrapperjar":"ServerWrapper.jar","JVMargs":["-Dlauncher.noJAnsi=true","-noverify"],"update":true,"addJarArgs":true,"addJarJVMArgs":true}
